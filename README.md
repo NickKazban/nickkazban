@@ -14,7 +14,7 @@ My hobby is collecting coins and banknotes from different countries.
 
 ## Social
 
-[![facebook](https://img.shields.io/badge/-facebook-080D11?style=for-the-badge&logo=facebook&logoColor=216E39)](https://www.facebook.com/nick.kazban/)
+[![facebook](https://img.shields.io/badge/-facebook-080D11?style=for-the-badge&logo=facebook&logoColor=216E39)](https://www.facebook.com/nick.kazban/) {:target="_blank" rel="noopener"}
 [![linkedin](https://img.shields.io/badge/-linkedin-080D11?style=for-the-badge&logo=linkedin&logoColor=C9BA65)](https://www.linkedin.com/in/mykolakazban/)
 [![telegram](https://img.shields.io/badge/-telegram-080D11?style=for-the-badge&logo=telegram&logoColor=ED5E42)](https://t.me/NickKazban)
 
