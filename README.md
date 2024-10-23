@@ -3,14 +3,14 @@
 ## _About me_
 
 
-I am a beginner web developer and I want to develop in this area.
-My hobby is collecting coins and banknotes from different countries.
+I do software testing. The main goal is to make the product better.
 
 ## My skills
 
 ![html](https://img.shields.io/badge/-html-080D11?style=for-the-badge&logo=html&logoColor=216E39)
 ![css](https://img.shields.io/badge/-css-080D11?style=for-the-badge&logo=css&logoColor=216E39)
-![scss](https://img.shields.io/badge/-scss-080D11?style=for-the-badge&logo=scss&logoColor=216E39)
+![js](https://img.shields.io/badge/-js-080D11?style=for-the-badge&logo=scss&logoColor=216E39)
+<br>
 ![js](https://img.shields.io/badge/-js-080D11?style=for-the-badge&logo=scss&logoColor=216E39)
 
 ## Social
