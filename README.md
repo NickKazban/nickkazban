@@ -37,7 +37,10 @@ Test documentation:
 ## EDUCATION:
 
 
- •	<i>Web-platform Prometheus- online course “Lviv School “Software Testing Basics”</i>
- 
+ <p>•	<i>Web-platform Prometheus- online course “Lviv School “Software Testing Basics”</i></p>
+
  <p>•	<i>Web-platform Udemy – “Software testing for beginners SQL, Postman, Jira, Git(2021)”</i>.</p>
+
+ <p>•	Ilarion Halushka -Youtube Course SQL+DBeaver, Postman, Chrome DevTools, Git and fundamental testing theory</p>
+ 
 
