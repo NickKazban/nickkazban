@@ -1,5 +1,3 @@
-![Header](https://github.com/NickKazban/nickkazban/blob/main/assets/logo__me.gif)
-
 ## _About me_
 
 
@@ -41,6 +39,6 @@ Test documentation:
 
  <p>•	<i>Web-platform Udemy – “Software testing for beginners SQL, Postman, Jira, Git(2021)”</i>.</p>
 
- <p>•	Ilarion Halushka -Youtube Course SQL+DBeaver, Postman, Chrome DevTools, Git and fundamental testing theory</p>
+ <p>•	Ilarion Halushka -Youtube Course SQL+DBeaver, Postman, Chrome DevTools, Git and fundamental testing theory/</p>
  
 
