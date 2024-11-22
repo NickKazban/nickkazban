@@ -21,7 +21,7 @@ I do software testing. The main goal is to make the product better.
 ## Portfolio
 Test documentation:
 
-  <p>[(Bug repotrs Example](https://github.com/NickKazban/nickkazban/tree/main/bug_rep))</p>
+  [Bug repotrs Example](https://github.com/NickKazban/nickkazban/tree/main/bug_rep)
   <p>[Test Case Example](https://drive.google.com/drive/folders/1Shm6GsozysJzVW4mTNQA-obEAeJHLRUp?usp=drive_link)</p>
   <p>[Checklists ---to be contined](https://drive.google.com/drive/folders/1qPFZmyAkDcwzT-ByP33S9xA3x8B8uqKR?usp=drive_link)</p>
   
