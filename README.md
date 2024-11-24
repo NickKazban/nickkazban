@@ -24,7 +24,7 @@ Test documentation:
   <br>
   [Test Case Example](https://drive.google.com/drive/folders/1Shm6GsozysJzVW4mTNQA-obEAeJHLRUp?usp=drive_link)
   <br>
-  [Checklists ---to be contined](https://drive.google.com/drive/folders/1qPFZmyAkDcwzT-ByP33S9xA3x8B8uqKR?usp=drive_link)
+  [Checklists ---to be contined]([https://drive.google.com/drive/folders/1qPFZmyAkDcwzT-ByP33S9xA3x8B8uqKR?usp=drive_link](https://docs.google.com/spreadsheets/d/1lzRDLzi_9g5CO1EwNYDDSB1hW-YKdY800lBfu00Hbuw/edit?usp=drive_link))
   
  
 ## Social
