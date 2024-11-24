@@ -35,7 +35,8 @@ Test documentation:
 
 ## EDUCATION:
 
-
+ <p> •	National Technical University of Ukraine 'Kyiv Polytechnic Institute'
+ Magister of Engineering - BE, Radiotechnical systemsBachelor of Engineering - BE, Radiotechnical systems </p>
  <p>•	<i>Web-platform Prometheus- online course “Lviv School “Software Testing Basics”</i></p>
 
  <p>•	<i>Web-platform Udemy – “Software testing for beginners SQL, Postman, Jira, Git(2021)”</i>.</p>
