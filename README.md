@@ -14,6 +14,8 @@ I do software testing. The main goal is to make the product better.
 ![Zeplin-Figma](https://img.shields.io/badge/Zeplin-Figma-blue)
 ![Git](https://img.shields.io/badge/Git-blue)
 ![Dveaver](https://img.shields.io/badge/DBeaver-blue)
+![MySQL-Workbench](https://img.shields.io/badge/MySQL-Workbench-blue)
+
 
 
 
